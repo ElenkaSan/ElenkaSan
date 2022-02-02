@@ -7,11 +7,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Python Logo" width="50px" height="50px">
 <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" alt="Flask Logo" width="50px" height="50px">
 
-<style>
-H1{color:Blue !important;}
-H2{color:DarkOrange !important;}
-p{color:Black !important;}
-</style>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
 <!--
 **ElenkaSan/ElenkaSan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
