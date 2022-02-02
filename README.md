@@ -6,7 +6,7 @@
 [<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript Logo" width="50px" height="50px">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Python Logo" width="50px" height="50px">](https://www.python.org/)
 [<img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" alt="Flask Logo" width="50px" height="50px">](https://flask.palletsprojects.com/en/2.0.x/)
-[<img src="https://user-images.githubusercontent.com/11978772/40430986-a0eb7b92-5e63-11e8-80eb-43fe07f664a6.png" alt="Express Logo" width="80px" height="50px">](https://expressjs.com/)
+[<img src="https://user-images.githubusercontent.com/11978772/40430986-a0eb7b92-5e63-11e8-80eb-43fe07f664a6.png" alt="Express Logo"  height="50px">](https://expressjs.com/)
 [<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="Figma Logo" width="50px" height="50px">](https://www.figma.com/)
 [<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="Psql Logo" width="50px" height="50px">](https://www.postgresql.org/)
 [<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" alt="Git Logo" width="50px" height="50px">](https://git-scm.com/)
