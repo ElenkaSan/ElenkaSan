@@ -13,8 +13,7 @@
 [<img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" alt="Jest Logo" width="50px" height="50px">](https://jestjs.io/)
 [<img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="Redux Logo" width="50px" height="50px">](https://redux.js.org/)
 [<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React Logo" width="50px" height="50px">](https://reactjs.org/)
-[<img src="!https://user-images.githubusercontent.com/75818489/152241179-7b23f58b-2a51-4f7b-847d-ce57b30f1493.png
-" alt="Flask Logo" width="50px" height="50px">](https://flask.palletsprojects.com/en/2.0.x/)
+[<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.redbubble.com%2Fshop%2Fflask%2Bpython&psig=AOvVaw0jpOWZsevTugSvNGEb5CDn&ust=1643923933495000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKCn8Pb84fUCFQAAAAAdAAAAABAD" alt="Flask Logo" width="50px" height="50px">](https://flask.palletsprojects.com/en/2.0.x/)
 [<img src="https://user-images.githubusercontent.com/11978772/40430986-a0eb7b92-5e63-11e8-80eb-43fe07f664a6.png" alt="Express Logo"  height="50px">](https://expressjs.com/)
 
 ![ElenkaSan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElenkaSan&show_icons=true&theme=radical)
