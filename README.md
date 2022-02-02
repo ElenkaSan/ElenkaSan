@@ -1,3 +1,4 @@
+header-includes: \usepackage{xcolor}
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 *** 
@@ -5,6 +6,7 @@
  
 A blue and bold paragraph.
 {: .blue .bold}
+\textcolor{green}{Text is green!}
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript Logo" width="50px" height="50px">
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Python Logo" width="50px" height="50px">
