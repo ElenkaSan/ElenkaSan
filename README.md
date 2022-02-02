@@ -1,9 +1,8 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 *** 
-```diff
-+ **Languages and Tools** 
-```
+ **Languages and Tools**
+  **My Bold Text, in red color.**{: style="color: red; opacity: 0.80;" }
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript Logo" width="50px" height="50px">
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Python Logo" width="50px" height="50px">
