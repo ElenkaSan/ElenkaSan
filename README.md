@@ -1,14 +1,15 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 *** 
-Languages and Tools:
+```diff 
++ Languages and Tools:
+```
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript Logo" width="50px" height="50px">
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="JavaScript Logo" width="50px" height="50px">
-```diff 
+<span style="background-color:orange;">
 + <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" alt="JavaScript Logo" width="50px" height="50px">
-```
-
+</span>
 <!--
 **ElenkaSan/ElenkaSan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
