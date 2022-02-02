@@ -1,4 +1,4 @@
-header-includes: \usepackage{xcolor}
+\usepackage{xcolor}
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 *** 
