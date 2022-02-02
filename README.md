@@ -1,5 +1,10 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
+*** 
+Languages and Tools:
+
+<img scr="https://github.com/devicons/devicon/tree/master/icons/javascript" alt="JavaScript Logo" width="50px" height="50px">
+
 <!--
 **ElenkaSan/ElenkaSan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
