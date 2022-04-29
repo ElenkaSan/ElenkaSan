@@ -2,7 +2,7 @@
 ### 📫 How to reach me:  
    [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" alt="LinkedIn Logo" width="50px" height="50px">](https://www.linkedin.com/in/elena-nurullina/)
    
-  My email: elenka_san@yahoo.com  
+ elenka_san@yahoo.com  
 <!--   <img src="https://cdn.iconscout.com/icon/free/png-256/yahoo-2752017-2284834.png" alt="Yahoo Logo" width="50px" height="50px">  -->
 *** 
  **Languages and Tools**
