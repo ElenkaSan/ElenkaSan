@@ -1,4 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">
 ### 📫 How to reach me:   [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" alt="LinkedIn Logo" width="40px" height="40px">](https://www.linkedin.com/in/elena-nurullina/)
 ### 👨‍ Connect with me: elenka_san@yahoo.com  
 <!--   <img src="https://cdn.iconscout.com/icon/free/png-256/yahoo-2752017-2284834.png" alt="Yahoo Logo" width="50px" height="50px">  -->
