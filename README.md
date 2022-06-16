@@ -17,6 +17,7 @@
 [<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React Logo" width="50px" height="50px">](https://reactjs.org/)
 [<img src="https://miro.medium.com/max/1200/1*fD3qqMWNyfJ85XST9c1H2g.png" alt="Flask Logo" height="50px">](https://flask.palletsprojects.com/en/2.0.x/)
 [<img src="https://user-images.githubusercontent.com/11978772/40430986-a0eb7b92-5e63-11e8-80eb-43fe07f664a6.png" alt="Express Logo"  height="50px">](https://expressjs.com/)
+[<img src="https://docs.microsoft.com/cs-cz/windows/images/csharp-logo.png" alt="Express Logo"  height="50px">](https://docs.microsoft.com/en-us/dotnet/csharp/)
 
 ![ElenkaSan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElenkaSan&show_icons=true&theme=radical)
 <!--
