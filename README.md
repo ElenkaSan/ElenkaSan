@@ -4,12 +4,12 @@
 ### [My Web portfolio](https://elenanurullina.vercel.app/) 
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100"/> 
-  <div id="badges">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300"/> 
+</div>
+<!-- <div id="badges"> -->
   [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" alt="LinkedIn Badge"
         width="40px" height="40px" />](https://www.linkedin.com/in/elena-nurullina/)
-</div>
-</div>
+<!-- </div> -->
 
 *** 
  **Languages and Tools**
