@@ -27,7 +27,7 @@
 <!-- [<img src="https://docs.microsoft.com/cs-cz/windows/images/csharp-logo.png" alt="C# Logo" width="60px" height="60px">](https://docs.microsoft.com/en-us/dotnet/csharp/) -->
 
 ### :fire: My Stats :
-https://github-readme-streak-stats.herokuapp.com/?user=ElenkaSan
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ElenkaSan)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ElenkaSan&theme=dark&background=000000)](https://git.io/streak-stats)
 
