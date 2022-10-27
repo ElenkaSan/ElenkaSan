@@ -3,6 +3,9 @@
 ### 📨 Connect with me: elenka_san@yahoo.com  
 <!--   <img src="https://cdn.iconscout.com/icon/free/png-256/yahoo-2752017-2284834.png" alt="Yahoo Logo" width="50px" height="50px">  -->
 ### 👩‍💻 [My Web portfolio](https://elenanurullina.vercel.app/) 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 *** 
  **Languages and Tools**
 
