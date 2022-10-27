@@ -26,6 +26,11 @@
 <!-- [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1280px-ISO_C%2B%2B_Logo.svg.png" alt="C++ Logo" width="50px" height="50px">](https://isocpp.org/) -->
 <!-- [<img src="https://docs.microsoft.com/cs-cz/windows/images/csharp-logo.png" alt="C# Logo" width="60px" height="60px">](https://docs.microsoft.com/en-us/dotnet/csharp/) -->
 
+### :fire: My Stats :
+https://github-readme-streak-stats.herokuapp.com/?user=ElenkaSan
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ElenkaSan&theme=dark&background=000000)](https://git.io/streak-stats)
+
 ![ElenkaSan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElenkaSan&show_icons=true&theme=radical)
 <!--
 **ElenkaSan/ElenkaSan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
