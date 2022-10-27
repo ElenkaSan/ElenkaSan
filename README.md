@@ -3,8 +3,12 @@
 <!--   <img src="https://cdn.iconscout.com/icon/free/png-256/yahoo-2752017-2284834.png" alt="Yahoo Logo" width="50px" height="50px">  -->
 ### [My Web portfolio](https://elenanurullina.vercel.app/) 
 
-<div id="header">
+<div id="header" align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100"/> 
+  <div id="badges">
+  [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" alt="LinkedIn Badge"
+        width="40px" height="40px" />](https://www.linkedin.com/in/elena-nurullina/)
+</div>
 </div>
 
 *** 
