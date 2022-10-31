@@ -3,7 +3,7 @@
 </div>
 
 *** 
-### 📫 How to reach me  ☞  [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" alt="LinkedIn Logo" width="40px" height="40px">](https://www.linkedin.com/in/elena-nurullina/)  ?  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" alt="LinkedIn Logo" width="40px" height="40px">](elenka_san@yahoo.com)  :  [My Web portfolio](https://elenanurullina.vercel.app/) 
+### 📫 How to reach me  ☞  [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" alt="LinkedIn Logo" width="40px" height="40px">](https://www.linkedin.com/in/elena-nurullina/)  ?  <[img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png"](https://1000logos.net/wp-content/uploads/2021/05/Gmail-logo.png" alt="Gmail Logo" width="40px" height="40px">](mailto:elenka_san@yahoo.com?subject=Website Inquiry)  :  [My Web portfolio](https://elenanurullina.vercel.app/) 
 
 *** 
  **:hammer_and_wrench: Languages and Tools**
