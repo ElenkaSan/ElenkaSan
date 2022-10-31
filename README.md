@@ -4,7 +4,7 @@
    </a>
   <div>
   <img src="https://cdn0.iconfinder.com/data/icons/flat-round-arrow-arrow-head/512/Red_Arrow_Top-2-512.png" width="30"/> 
-        <h3> Check My Web portfolio </h3>
+  <h3> Check My Web portfolio </h3>
   </div>
 </div>
 
