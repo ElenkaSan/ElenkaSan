@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400"/> 
    </a>
   <div>
-  <img src="https://art.pixilart.com/44b48c61681ff50.png" width="70"/> 
+  <img src="http://cdn.onlinewebfonts.com/svg/img_484431.png" backgroundColor="white" width="70"/> 
   </div>
 </div>
 
