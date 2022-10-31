@@ -1,7 +1,8 @@
 <div id="header" align="center">
   <a href="https://elenanurullina.vercel.app/" role="button">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400"/> 
-  <img src="https://art.pixilart.com/418af1cd3ec7b33.png" width="70"/> 
+    <br/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDZE39qNsXcJoxqHiHWUnlqjUDdjktGPDec7901kemtqXycaH26q46n85o4uzkkEcTpaI&usqp=CAU" width="70"/> 
   </a>
 </div>
 
