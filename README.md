@@ -1,12 +1,10 @@
 <div id="header" align="center">
   <a href="https://elenanurullina.vercel.app/" role="button">
-  <div>
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400"/> 
-    </div>
+   </a>
   <div>
   <img src="https://art.pixilart.com/44b48c61681ff50.png" width="70"/> 
   </div>
-  </a>
 </div>
 
 *** 
