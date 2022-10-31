@@ -1,11 +1,10 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400"/> 
-  <a href="[https://recipe-tips.herokuapp.com/](https://elenanurullina.vercel.app/)" role="button">
-  [My Web portfolio](https://elenanurullina.vercel.app/) 
+  <a href="https://elenanurullina.vercel.app/" role="button">
 </div>
 
 *** 
-### 📫 How to reach me  ☞  <img src="https://1000logos.net/wp-content/uploads/2021/05/Gmail-logo.png" alt="Gmail Logo" width="50px" height="40px">  ? elenka_san@yahoo.com  :  [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" alt="LinkedIn Logo" width="40px" height="40px">](https://www.linkedin.com/in/elena-nurullina/) 
+### 📫 How to reach me  ☞  <img src="https://1000logos.net/wp-content/uploads/2021/05/Gmail-logo.png" alt="Gmail Logo" width="60px" height="40px">  ? elenka_san@yahoo.com  :  [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" alt="LinkedIn Logo" width="40px" height="40px">](https://www.linkedin.com/in/elena-nurullina/) 
 <!-- [My Web portfolio](https://elenanurullina.vercel.app/)  -->
 
 *** 
