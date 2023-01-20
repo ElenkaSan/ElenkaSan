@@ -32,7 +32,10 @@
 
 ### :fire: My Stats :
 
-![ElenkaSan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElenkaSan&show_icons=true&theme=radical) [![ElenkaSan's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ElenkaSan&theme=radical)](https://git.io/streak-stats)
+![ElenkaSan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElenkaSan&show_icons=true&theme=radical) 
+![ElenkaSan's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+
+[![ElenkaSan's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ElenkaSan&theme=radical)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElenkaSan&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
