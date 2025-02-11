@@ -23,6 +23,7 @@
 [<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL"  width="50px" height="50px">](https://www.mysql.com/)
 [<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" alt="Git Logo" width="50px" height="50px">](https://git-scm.com/)
 [<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS Logo" width="50px" height="50px">](https://nodejs.org/en/)
+[<img src="https://user-images.githubusercontent.com/11978772/40430986-a0eb7b92-5e63-11e8-80eb-43fe07f664a6.png" alt="Express Logo" height="50px">](https://expressjs.com/)
 [<img src="https://github.com/devicons/devicon/blob/master/icons/jasmine/jasmine-original-wordmark.svg" alt="Jasmine Logo" width="50px" height="50px">](https://jasmine.github.io/)
 [<img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" alt="Jest Logo" width="50px" height="50px">](https://jestjs.io/)
 [<img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="Redux Logo" width="50px" height="50px">](https://redux.js.org/)
@@ -31,8 +32,7 @@
 [<img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" alt="Jira" width="50px" height="50px">](https://github.com/devicons/devicon/tree/master/icons/jira)
 [<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" alt="VSCode"  width="50px" height="50px">](https://code.visualstudio.com/)
 [<img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" alt="IntelliJ Idea"  width="50px" height="50px">](https://www.jetbrains.com/)
-[<img src="https://user-images.githubusercontent.com/11978772/40430986-a0eb7b92-5e63-11e8-80eb-43fe07f664a6.png" alt="Express Logo" height="50px">](https://expressjs.com/)
-[<img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-line.svg" alt="Jenkins" width="50px" height="50px" background="orange">](https://www.jenkins.io/)
+[<img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="50px" height="50px" background="orange">](https://www.jenkins.io/)
 [<img src="https://imgix.datadoghq.com/img/about/presskit/usage/logousage_purple.png?auto=format&fit=max&w=847&dpr=2" alt="Datadog" width="70px" height="50px">](https://www.datadoghq.com/)
 
 <!-- [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1280px-ISO_C%2B%2B_Logo.svg.png" alt="C++ Logo" width="50px" height="50px">](https://isocpp.org/) -->
