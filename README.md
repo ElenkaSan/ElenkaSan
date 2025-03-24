@@ -40,9 +40,12 @@
 
 ### :fire: My Stats :
 
-<!-- [![ElenkaSan's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ElenkaSan&theme=radical)](https://git.io/streak-stats) -->
+<!-- [![ElenkaSan's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ElenkaSan&theme=radical)](https://git.io/streak-stats) 
+ [![ElenkaSan's Streak](https://streak-stats.demolab.com/?user=ElenkaSan&theme=radical)](https://git.io/streak-stats)-->
  ![ElenkaSan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElenkaSan&show_icons=true&theme=synthwave) 
- [![ElenkaSan's Streak](https://streak-stats.demolab.com/?user=ElenkaSan&theme=radical)](https://git.io/streak-stats)
+ 
+ <img src="https://github-readme-stats.vercel.app/api?username=elenkaSan&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="elenkaSan's GitHub Stats" />
+
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElenkaSan&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 <!-- ![ElenkaSan's GitHub stats](https://github-readme-stats.vercel.app/api?username=elenkasan&show_icons=true&theme=dracula) -->
 
