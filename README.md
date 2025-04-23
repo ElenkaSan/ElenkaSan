@@ -17,7 +17,7 @@
 
 [<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript Logo" width="50px" height="50px">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Python Logo" width="50px" height="50px">](https://www.python.org/)
-[<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="Java" width="50px" height="50px">](https://www.java.com/en/)
+[<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="Java" width="60px" height="60px">](https://www.java.com/en/)
 [<img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" alt="SpringBoot" width="50px" height="50px">](https://spring.io/projects/spring-boot)
 [<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="Psql Logo" width="50px" height="50px">](https://www.postgresql.org/)
 [<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50px" height="50px">](https://www.mysql.com/)
