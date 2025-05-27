@@ -23,6 +23,7 @@
 [<img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" alt="SpringBoot" width="50px" height="50px">](https://spring.io/projects/spring-boot)
 [<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="Psql Logo" width="50px" height="50px">](https://www.postgresql.org/)
 [<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="60px" height="60px">](https://www.mysql.com/)
+[<img src="https://github.com/devicons/devicon/blob/master/icons/azuresqldatabase/azuresqldatabase-original.svg" alt="Azure Data Studio" width="60px" height="60px">](https://learn.microsoft.com/en-us/azure-data-studio/download-azure-data-studio?tabs=win-install%2Cwin-user-install%2Credhat-install%2Cwindows-uninstall%2Credhat-uninstall)
 [<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" alt="Docker" width="60px" height="60px">](https://hub.docker.com/)
 [<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS Logo" width="50px" height="50px">](https://nodejs.org/en/)
 [<img src="https://user-images.githubusercontent.com/11978772/40430986-a0eb7b92-5e63-11e8-80eb-43fe07f664a6.png" alt="Express Logo" height="50px">](https://expressjs.com/)
