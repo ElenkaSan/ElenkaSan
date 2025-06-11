@@ -16,7 +16,7 @@ I'm a Full-Stack Software Engineer with a strong inclination toward Front-End de
 
 *** 
 
-![Profile Views](https://komarev.com/ghpyc/?username=ElenkaSan&color=pink)
+![Profile Views](https://komarev.com/ghpvc/?username=ElenkaSan&color=yellow)
 
 
  **:hammer_and_wrench: Languages and Tools**
