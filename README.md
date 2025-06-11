@@ -16,7 +16,9 @@ I'm a Full-Stack Software Engineer with a strong inclination toward Front-End de
 
 *** 
 
-![Profile Views](https://komarev.com/ghpyc/?username=ElenkaSan$color=pink)
+![Profile Views](https://komarev.com/ghpyc/?username=ElenkaSan&color=pink)
+
+
  **:hammer_and_wrench: Languages and Tools**
 
 [<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript Logo" width="50px" height="50px">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
