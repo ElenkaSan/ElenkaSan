@@ -16,6 +16,8 @@ Currently focused on real-time Voice AI, LLM agents, healthcare automation, RAG,
 
 Having a strong inclination toward Front-End development, where I combine design and logic to craft user-friendly, visually appealing applications. With hands-on experience in cloud-native development, Agile workflows, and a keen eye for UI/UX, I’m dedicated to creating scalable, impactful software solutions.
 
+I'm particularly interested in opportunities across Full-Stack & AI Engineering, AI Solutions & Implementation, Technical Program & Project Delivery, API & Data Integration, and AI-powered Product Operations.
+
 TypeScript · React/Next.js · Node.js · Python/FastAPI · PostgreSQL · AWS/Azure · OpenAI · LiveKit
 <!--
 ### 📫 How to reach me  ☞  <img src="https://1000logos.net/wp-content/uploads/2021/05/Gmail-logo.png" alt="Gmail Logo" width="60px" height="40px">  ? elenka_san@yahoo.com  :  [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" alt="LinkedIn Logo" width="40px" height="40px">](https://www.linkedin.com/in/elena-nurullina/) 
